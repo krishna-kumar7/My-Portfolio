@@ -63,7 +63,7 @@ const Header = () => {
           initial={{ y: 30, opacity: 0 }}
           whileInView={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.6, delay: 1 }}
-          href="https://drive.google.com/file/d/1qpR0kC9MJNfJh0KkA1cuWtJQX2RGWy05/view"
+          href="https://drive.google.com/file/d/1gM5sr6pdrubuzKX9-5NNIsq2kZkJleab/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
           className="px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2"
